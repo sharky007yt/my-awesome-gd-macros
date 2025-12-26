@@ -3,3 +3,5 @@
 # my awesome geometry dash macros
 ---------------------------------------------------------------------------------------------------------------------------------------------
 i backed up my macros here so you guys can use them :) 
+--------------------------------------------------------------------------------------------------------------------------------------------
+tell me in the issues part of this repo what other levels should i bot (it cant be impossible btw)
